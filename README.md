@@ -10,7 +10,7 @@ Users can create accounts, list their own properties, upload images, view proper
 
 ## 🚀 Live Demo
 
-**Live Application:** https://wanderlust-4b0m.onrender.com/
+**Live Application:** https://wanderlust-4b0m.onrender.com/listings
 
 **GitHub Repository:** https://github.com/DebugNinja0204/Wanderlust
 
